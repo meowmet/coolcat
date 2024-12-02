@@ -3,7 +3,7 @@ title By Meowker~
 color 0A
 setlocal enabledelayedexpansion
 
-:: ASCII Art for the Rose
+
 :animation
 set cat=  ThIs TeXtS sEeMs Co0l 
 set cat1=             ****                                                        *000000          
